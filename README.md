@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen) 
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1121704508.svg)](https://zenodo.org/record/1121704508)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1121704508.svg)](https://doi.org/10.5281/zenodo.18246158)
 
 
 
