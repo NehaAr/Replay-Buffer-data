@@ -1,5 +1,5 @@
 cff-version: 1.0.0
-title: PES
+title: Replay-Buffer
 message: "If you use this software in your research, please cite it."
 type: software/Python Package
 version: 1.0.0
